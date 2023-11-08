@@ -1,3 +1,3 @@
-module github.com/yansong2022/myservicetest
+module thirdpackagetest
 
 go 1.20
