@@ -1,3 +1,3 @@
-module thirdpackagetest
+module myservicetest
 
 go 1.20
